@@ -11,7 +11,7 @@
 
 
 -  I’m currently learning MERN and Python
--  *`I'm a 3rd Year CSE Student`*
+-  I'm a 3rd Year CSE Student
 
 - ✌️ Currently Pursuing *`B.Tech From Lovely Professional University`*
 
