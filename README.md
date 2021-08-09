@@ -20,11 +20,13 @@
 -  Ask me about **C++ , C , kali linux**
 
  ### <h1 align="center">Feel Free to Contact Me : <h1/> 
+ <body>
     <div class="img1">
      <p align='center'>
  <a href="https://www.linkedin.com/in/akash-chandra-169591158/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="akashchandra2343@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://www.instagram.com/i_am_akashkashyap/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
   <p/>
 </div>
+ </body>
  
 <p align="center">
 ## Languages and Tools ⚙
