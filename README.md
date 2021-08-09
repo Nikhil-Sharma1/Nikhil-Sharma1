@@ -1,20 +1,18 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-<h1 align="center">Hi I am Kamal Kishore Joshi </h1>
+<h1 align="center">Hi I am Akash Chandra </h1>
 
 
-<h3 align="center">  I Love to code  </h3>
-<h3 align="center"> Creativity in veins</h3>
+<h3 align="center"> Love to mess with code  </h3>
+<h3 align="center"> Ready to Learn and Apply </h3>
 
 
--  I’m currently working on **Path finding visualizer,Chat bot**
+-  I’m currently learning MERN and Python
 
--  I’m currently learning **Python**
-
--  I’m looking to collaborate on **Hacktoberfest Repos**
+-  Sharpening my problem solving skills and learing DSA
 
 -  Ask me about **C++ , C , kali linux**
 
--  How to reach me **mr.joshitech@gmail.com**
+-  How to reach me **akashchandra2343h@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
