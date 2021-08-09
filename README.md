@@ -11,12 +11,14 @@
 
 
 -  I’m currently learning MERN and Python
+-  *`I'm a 3rd Year CSE Student`*
 
--  Sharpening my problem solving skills and learing DSA
+- ✌️ Currently Pursuing *`B.Tech From Lovely Professional University`*
+
+- ✔️ Fun fact :*` I love Listening to Music, Reading books & Articles on new tech in market!`*
 
 -  Ask me about **C++ , C , kali linux**
 
--  How to reach me **akashchandra2343h@gmail.com**
 
 
 ## Languages and Tools ⚙
