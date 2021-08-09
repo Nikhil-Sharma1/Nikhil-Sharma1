@@ -3,6 +3,7 @@
 
 
 <h3 align="center"> Love to mess with code  </h3>
+<p><img align="right" src="https://ensutq4xm9kgbv5.m.pipedream.net" alt="profileViews"/></p>
 <h3 align="center"> Ready to Learn and Apply </h3>
 
 
@@ -24,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAkashChandra&show_icons=true" alt="0xAkashChandra" /></p>
 
-<p><img align="center" src="https://ensutq4xm9kgbv5.m.pipedream.net" alt="profileViews"/></p>
+
 
 
 
