@@ -19,9 +19,7 @@
 
 -  Ask me about **C++ , C , kali linux**
 
- ### <h1 align="center">Feel Free to Contact Me : <h1/> <p align="center"> <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
- <p/>
- 
+ ### <h1 align="center">Feel Free to Contact Me : <h1/> 
  <body>
     <div class="img1">
      <p align='center'>
