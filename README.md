@@ -1,9 +1,10 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 <h1 align="center">Hi I am Akash Chandra </h1>
+<p><img align="right" src="https://ensutq4xm9kgbv5.m.pipedream.net" alt="profileViews"/></p>
 
 
 <h3 align="center"> Love to mess with code  </h3>
-<p><img align="right" src="https://ensutq4xm9kgbv5.m.pipedream.net" alt="profileViews"/></p>
+
 <h3 align="center"> Ready to Learn and Apply </h3>
 
 
