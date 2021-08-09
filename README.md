@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAkashChandra&show_icons=true" alt="0xAkashChandra" /></p>
 
-<p>Profile view <a src="https://enky7r4abej3pps.m.pipedream.net"></a></p>
+<p><img align="center" src="https://ensutq4xm9kgbv5.m.pipedream.net" alt="profileViews"/></p>
 
 
 
