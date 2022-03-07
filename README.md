@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-<h1 align="center">Hi I am Akash Chandra </h1>
+<h1 align="center">Hi I am Akanksha Maurya </h1>
 
 
 
@@ -10,14 +10,14 @@
 <br>
 
 
--  I’m currently learning MERN and Python
+-  I’m currently learning MERN Stack
 -  I'm a 3rd Year CSE Student
 
 - ✌️ Currently Pursuing *`B.Tech From Lovely Professional University`*
 
 - ✔️ Fun fact :*` I love Listening to Music, Reading books & Articles on new tech in market!`*
 
--  Ask me about **C++ , C , kali linux**
+-  Ask me about **C++ , C , React.js**
 
  ### <h1 align="center">Feel Free to Contact Me : <h1/> <p align="center"> <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="60"/><img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="60"/><img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="60"/><img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="60"/><img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="60"/><img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="60"/>
  <p/>
@@ -38,9 +38,9 @@
 
 
 ## 📊 My Github stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAkashChandra&layout=compact" alt="0xAkashChandra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha0044&layout=compact" alt="akanksha0044" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAkashChandra&show_icons=true" alt="0xAkashChandra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0044&show_icons=true" alt="akanksha0044" /></p>
 
 
 
