@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-<h1 align="center">Hi I am Akanksha Maurya </h1>
+<h1 align="center">Hi I am Nikhil Sharma </h1>
 
 
 
@@ -38,9 +38,9 @@
 
 
 ## 📊 My Github stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha0044&layout=compact" alt="akanksha0044" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Sharma1&layout=compact" alt="Nikhil-Sharma1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0044&show_icons=true" alt="akanksha0044" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Sharma1&show_icons=true" alt="Nikhil-Sharma1" /></p>
 
 
 
